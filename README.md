@@ -1,31 +1,40 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=3,5,18&text=Sithnula%20Perera&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20developer%20%2F%20Graphic%20Designer&descSize=18&descAlignY=55&textBg=false"/>
+<!-- ================= HEADER BANNER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,5,9,12&text=Sithnula%20Perera&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20developer%20%2F%20Graphic%20Designer&descSize=18&descAlignY=55&textBg=false"/>
 
+<!-- ================= PROFILE VIEWS ================= -->
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Asel2008-afk">
-    <img src="https://komarev.com/ghpvc/?username=Asel2008-afk&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Asel2008-afk&label=Profile%20views&color=00BFFF&style=flat-square" alt="profile views" />
   </a>
 </p>
 
+<!-- ================= ANIMATED BANNER GIF ================= -->
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
+---
+
 ## 📌 About Me
-- 🚀 Frontend Developer & Web Designer
-- 💻 Specialized in HTML5, CSS3, and JavaScript
-- 🛒 Building dynamic e-commerce platforms and interactive landing pages
-- 🎨 High-end professional graphic designer and visual asset creator
-- 📚 Currently learning Computer Science and Computer Networking
-- 🎓 Student preparing for Sri Lanka Advanced Level (A/L) examinations
-- 🎵 Hobbyist who loves listening to music and gaming
-- 🌿 Passionate about wildlife photography and capturing creative visuals
-- ⚡ Always open to collaboration on interactive web and design projects
+- 🚀 Frontend Developer & Web Designer  
+- 💻 Skilled in HTML5, CSS3, JavaScript  
+- 🛒 Building e-commerce & landing pages  
+- 🎨 Professional Graphic Designer  
+- 📚 Learning Computer Science & Networking  
+- 🎓 Preparing for A/L examinations  
+- 🎵 Music lover & gamer  
+- 🌿 Passionate about photography  
+- ⚡ Open for collaboration  
+
+---
 
 ## 🧠 My Focus Areas
-- 💻 Frontend Web Development & Interactive UI Design
-- 🌐 Computer Networking & Architecture
-- 🧠 Core Computer Science Concepts
-- 🎨 Graphic Design & Digital Creativity
-- 📸 Photography & Visual Composition
-- 🎓 Academic Studies (A/L Preparation)
+- 💻 Frontend Web Development  
+- 🌐 Computer Networking  
+- 🧠 Computer Science Fundamentals  
+- 🎨 Graphic Design  
+- 📸 Photography  
+- 🎓 Academic Growth  
+
+---
 
 ## 🛠️ Languages, Tools & Design Software
 
@@ -43,22 +52,22 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="45"/>
 </p>
 
-### Design Tools
+### 🎨 Design Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="45"/>
   <img src="https://img.icons8.com/color/48/capcut.png" width="45"/>
   <img src="https://img.icons8.com/color/48/filmora.png" width="45"/>
   <img src="https://img.icons8.com/color/48/canva.png" width="45"/>
 </p>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/>
 </p>
 
-### Tools
+### 🧰 Tools
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45"/>
 </p>
@@ -74,6 +83,8 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/>
   </a>
 </p>
+
+---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
