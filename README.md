@@ -56,7 +56,6 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="45"/>
- <img src="https://img.icons8.com/color/48/capcut.png" width="45"/>
   <img src="https://img.icons8.com/color/48/filmora.png" width="45"/>
   <img src="https://img.icons8.com/color/48/canva.png" width="45"/>
 </p>
