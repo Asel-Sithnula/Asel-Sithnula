@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Asel%20Sithnula%20Perera&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20developer%20%2F%20Graphic%20Designer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=3,5,18&text=Sithnula%20Perera&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20developer%20%2F%20Graphic%20Designer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Sithnula">
-    <img src="https://komarev.com/ghpvc/?username=Sithnula&label=Profile%20views&color=00FFFF&style=flat-square" alt="Sithnula profile views" />
+  <a href="https://komarev.com/ghpvc/?username=Asel2008-afk">
+    <img src="https://komarev.com/ghpvc/?username=Asel2008-afk&label=Profile%20views&color=00FFFF&style=flat-square" alt="profile views" />
   </a>
 </p>
 
@@ -21,68 +21,57 @@
 
 ## 🧠 My Focus Areas
 - 💻 Frontend Web Development & Interactive UI Design
-- 🌐 Computer Networking Protocols & Architecture
-- 🧠 Core Computer Science Concepts & Binary Logic
-- 🎨 High-End Professional Graphic Design & Visual Assets
-- 📸 Professional Wildlife Photography & Composition
-- 🎓 Sri Lanka Advanced Level (A/L) Examination Studies
+- 🌐 Computer Networking & Architecture
+- 🧠 Core Computer Science Concepts
+- 🎨 Graphic Design & Digital Creativity
+- 📸 Photography & Visual Composition
+- 🎓 Academic Studies (A/L Preparation)
 
-## 📊 GitHub Stats & Trophies
+## 🛠️ Languages, Tools & Design Software
+
+### Programming Languages
 <p align="center">
-  <a href="https://github.com/Sithnula">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sithnula&show_icons=true&theme=onedark&border_radius=10" />
-  </a>
-  <a href="https://github.com/Sithnula">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sithnula&theme=onedark&border_radius=10" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
 </p>
 
+### Frontend
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sithnula&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="45"/>
 </p>
 
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
+### Design Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" width="45"/>
+  <img src="https://img.icons8.com/color/48/capcut.png" width="45"/>
+  <img src="https://img.icons8.com/color/48/filmora.png" width="45"/>
+  <img src="https://img.icons8.com/color/48/canva.png" width="45"/>
 </p>
 
-<h3 align="center">Frontend</h3>
+### Cloud & DevOps
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/>
 </p>
 
-<h3 align="center">DevOps & Cloud</h3>
+### Tools
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45"/>
 </p>
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45" height="45" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sithnula">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithnula&layout=compact&theme=onedark&border_radius=10" />
-  </a>
-</p>
+---
 
 ## 🔗 Connect with Me
 <p align="center">
   <a href="mailto:aselsithnula08@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
   </a>
   <a href="https://aselsithnula.pages.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/>
   </a>
 </p>
 
