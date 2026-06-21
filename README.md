@@ -1,69 +1,54 @@
-<!-- ================= HERO HEADER ================= -->
+<!-- ================= HERO ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=2,6,12,20,24&text=Asel%20Sithnula&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Graphic%20Designer&descSize=18&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=2,6,12,20,24&text=Asel%20Sithnula&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%20Graphic%20Artist&descSize=18&descAlignY=55"/>
 </p>
 
-<!-- ================= TYPING INTRO ================= -->
+<!-- ================= TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+Graphic+Designer;E-Commerce+%26+Landing+Page+Builder;UI%2FUX+Focused+Web+Developer;Always+Learning+Computer+Science+%26+Networking" />
-</p>
-
-<!-- ================= PROFILE VIEWS ================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asel2008-afk&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Frontend+Developer+%7C+Graphic+Designer;Building+Modern+Web+Experiences;E-Commerce+%26+Landing+Page+Specialist;UI%2FUX+Focused+Creative+Engineer;Always+Learning+Computer+Science+%26+Networking" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
+I am a **frontend-focused developer & designer** who builds clean, modern, and user-friendly digital experiences.
 
 - 💻 Frontend Developer & Web Designer  
 - 🎨 Graphic Designer (UI/UX + Branding)  
-- 🛒 Focused on e-commerce & landing page systems  
-- 🎧 Music lover, gamer & photographer  
-- 🤝 Open for collaboration & freelance work  
-- 🎓 Learning Computer Science & Networking (A/L track)
+- 🛒 Specialized in E-Commerce & Landing Pages  
+- 🎧 Passionate about music, gaming & photography  
+- 🤝 Open for freelance & collaboration  
+- 🎓 Studying Computer Science & Networking (A/L Path)
 
 ---
 
-## 🧠 Tech Stack
+## ⚙️ Tech Stack
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 🎨 Design Tools
-<p>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Filmora-0A66C2?style=for-the-badge"/>
-</p>
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -80,7 +65,7 @@
 
 ---
 
-## 📈 Contribution Graph (WORKING)
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asel2008-afk&theme=tokyo-night&hide_border=true"/>
@@ -88,7 +73,7 @@
 
 ---
 
-## 🐍 Contribution Snake (OPTIONAL)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -96,26 +81,26 @@
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
 
-- 🛒 E-Commerce UI & Frontend System  
-- 🌐 Responsive Landing Pages  
-- 🎨 Branding & Social Media Design Kits  
-- ⚡ JavaScript Web Applications  
-- 📸 Photography Portfolio Website  
+- 🛒 E-Commerce Web UI (Modern Design System)
+- 🌐 Responsive Landing Page Templates
+- 🎨 Branding & Social Media Design Kits
+- ⚡ Interactive JavaScript Apps
+- 📸 Photography Portfolio Website
 
 ---
 
 ## 🤝 Collaboration
 
-Open for:
-- Web development projects  
-- UI/UX design work  
-- Freelance landing pages  
-- Startup/business websites  
+I am open for:
+- Freelance web development  
+- UI/UX design projects  
+- Startup & business websites  
+- Frontend engineering work  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Let’s%20Build-Something%20Amazing-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Let’s%20Build-Together-00BFFF?style=for-the-badge"/>
 </p>
 
 ---
@@ -125,7 +110,7 @@ Open for:
 - 🎮 Gaming  
 - 🎧 Music  
 - 📸 Photography  
-- 🧠 Learning new tech  
+- 🧠 Learning new technologies  
 
 ---
 
