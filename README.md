@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=2,6,12,20,24&text=Asel%20Sithnula&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Graphic%20Designer&descSize=18&descAlignY=55"/>
 </p>
 
-<!-- ================= TYPING EFFECT ================= -->
+<!-- ================= TYPING INTRO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+Graphic+Designer;E-Commerce+%26+Landing+Page+Specialist;UI%2FUX+Focused+Web+Creator;Always+Learning+Computer+Science+%26+Networking" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+Graphic+Designer;E-Commerce+%26+Landing+Page+Builder;UI%2FUX+Focused+Web+Developer;Always+Learning+Computer+Science+%26+Networking" />
 </p>
 
 <!-- ================= PROFILE VIEWS ================= -->
@@ -19,8 +19,8 @@
 
 - 💻 Frontend Developer & Web Designer  
 - 🎨 Graphic Designer (UI/UX + Branding)  
-- 🛒 Focused on building e-commerce & landing pages  
-- 🎧 Passion for music, gaming & photography  
+- 🛒 Focused on e-commerce & landing page systems  
+- 🎧 Music lover, gamer & photographer  
 - 🤝 Open for collaboration & freelance work  
 - 🎓 Learning Computer Science & Networking (A/L track)
 
@@ -28,7 +28,7 @@
 
 ## 🧠 Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -80,7 +80,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph (WORKING)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asel2008-afk&theme=tokyo-night&hide_border=true"/>
@@ -88,35 +88,27 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (OPTIONAL)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=Asel2008-afk"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asel2008-afk&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
-- 🛒 E-Commerce UI Design (Frontend System)
-- 🌐 Responsive Landing Pages
-- 🎨 Branding & Social Media Design Kits
-- ⚡ JavaScript Interactive Web Apps
-- 📸 Photography Portfolio Website
+- 🛒 E-Commerce UI & Frontend System  
+- 🌐 Responsive Landing Pages  
+- 🎨 Branding & Social Media Design Kits  
+- ⚡ JavaScript Web Applications  
+- 📸 Photography Portfolio Website  
 
 ---
 
 ## 🤝 Collaboration
 
-I am open for:
+Open for:
 - Web development projects  
 - UI/UX design work  
 - Freelance landing pages  
@@ -133,7 +125,7 @@ I am open for:
 - 🎮 Gaming  
 - 🎧 Music  
 - 📸 Photography  
-- 🧠 Learning new technologies  
+- 🧠 Learning new tech  
 
 ---
 
