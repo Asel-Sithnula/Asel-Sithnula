@@ -1,121 +1,128 @@
-<!-- ================= HEADER BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,6,12,20&text=Asel%20Sithnula&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%2F%20Graphic%20Designer&descSize=18&descAlignY=55"/>
+<!-- ================= HERO HEADER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=2,6,12,20,24&text=Asel%20Sithnula&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20UI%2FUX%20Designer&descSize=18&descAlignY=55" />
+</p>
+
+<!-- ================= TYPING INTRO ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%7C+Graphic+Designer;E-Commerce+%26+Landing+Page+Builder;UI%2FUX+Focused+Web+Creator;Always+Learning+Computer+Science+%26+Networking" />
+</p>
 
 <!-- ================= PROFILE VIEWS ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asel2008-afk&label=Profile%20Views&color=00BFFF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Asel2008-afk&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<!-- ================= ANIMATED HEADER GIF ================= -->
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87ac-8d329c8323c4.gif" width="100%" />
+---
+
+## 🧭 About Me
+
+A frontend-focused developer who blends **engineering precision with visual design thinking**.
+
+- ⚙️ Frontend Developer & Web Designer specialization  
+- 🎨 Dual expertise: Web Development + Graphic Design  
+- 🛒 Focused on building **e-commerce systems & landing pages**  
+- 🎧 Passionate about music, gaming, and photography  
+- 🤝 Open for collaborations and freelance opportunities  
+- 🎓 Studying Computer Science & Networking (A/L preparation track)
 
 ---
 
-## 🚀 About Me
-
-- 💻 Frontend Developer & Web Designer  
-- 🎨 Graphic Designer (UI/UX + Branding)  
-- 🛒 Building modern **e-commerce & landing pages**  
-- 📚 Learning Computer Science & Networking  
-- 🎓 Preparing for A/L examinations  
-- 🎧 Music lover, gamer & photographer  
-- 🤝 Open for collaboration & freelance work  
-
----
-
-## 🎯 Focus Areas
-
-- 🌐 Frontend Web Development  
-- 🎨 UI/UX & Graphic Design  
-- 🛒 E-commerce Web Systems  
-- 📸 Digital Photography  
-- 🧠 Computer Science Fundamentals  
-- ⚡ Networking & System Basics  
-
----
-
-## 🧠 Tech Stack
+## 🧠 Technical Skill Stack
 
 ### 💻 Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-### 🌐 Frontend
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+### 🌐 Frontend Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
-### 🎨 Design Tools
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" width="45"/>
-  <img src="https://img.icons8.com/color/48/canva.png" width="45"/>
-  <img src="https://img.icons8.com/color/48/filmora.png" width="45"/>
+### 🎨 Design & Media Tools
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Filmora-0A66C2?style=for-the-badge"/>
 </p>
 
 ### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </p>
 
-### 🧰 Tools
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asel2008-afk&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asel2008-afk&theme=tokyonight" />
+### 🧰 Development Tools
+<p>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 💼 Featured Projects
+## 📊 GitHub Analytics
 
-- 🛒 E-Commerce Website (Frontend + UI Design)  
-- 🌐 Landing Page UI Collection  
-- 🎨 Graphic Design Portfolio  
-- ⚡ Interactive Web Apps  
-- 📸 Photography Showcase Website  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asel2008-afk&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asel2008-afk&theme=tokyonight&hide_border=true"/>
+</p>
 
-## 🤝 Collaboration
-
-I’m open to:
-- Web development projects  
-- UI/UX design work  
-- Freelance landing pages  
-- Startup & business websites  
-
-📩 Let’s build something creative together!
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asel2008-afk&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## ⚡ Fun Side
+## 🚀 Featured Work
 
-- 🎮 Gaming enthusiast  
-- 🎧 Music addict  
-- 📸 Photography explorer  
-- 🧠 Always learning new tech  
+> Selected projects showcasing design + development synergy
+
+- 🛒 Modern E-Commerce UI (Frontend + UX Design)
+- 🌐 Responsive Landing Page Systems
+- 🎨 Brand Identity & Social Media Design Kits
+- ⚡ Interactive JavaScript Web Apps
+- 📸 Photography Showcase Portfolio Website
 
 ---
 
-<!-- ================= FOOTER GIF ================= -->
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
+## 🤝 Collaboration Hub
+
+I’m actively open for:
+
+- 💼 Freelance web development projects  
+- 🎨 UI/UX and branding design work  
+- 🛒 Startup and business website creation  
+- ⚡ Frontend performance-focused builds  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Let’s%20Build-Something%20Great-00BFFF?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚡ Interests Beyond Code
+
+- 🎮 Gaming & interactive systems  
+- 🎧 Music production & listening  
+- 📸 Visual storytelling through photography  
+- 🧠 Continuous learning in tech & systems
+
+---
+
+<!-- ================= FOOTER ANIMATION ================= -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
+</p>
